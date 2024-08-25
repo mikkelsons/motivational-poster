@@ -17,6 +17,7 @@ body {
   }
 
   img {
+    margin-left: -5px;
     width: 100%;
     border: solid white 5px;
   }
